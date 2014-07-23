@@ -1,3 +1,3 @@
 readme file inside the
-git repositiory locally
+git repository locally
 has three lines
